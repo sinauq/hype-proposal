@@ -2,3 +2,11 @@
 .reveal table td {
   text-align: right;
 }
+
+.reveal table td {
+  border-bottom: none;
+}
+
+.reveal table tbody {
+  border-top: 2px solid;
+}
